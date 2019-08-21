@@ -1,0 +1,219 @@
+<!DOCTYPE hhtml>
+<html>
+<meta charset ="utf-8">
+<body>
+<table>
+<caption> <strong>Clasificación</strong> de la Liga</caption>
+<tr>
+    <td>Posición</td>
+    <td>Equipo</td>
+    <td>Puntos</td>
+    <td>Partidos ganados</td>
+    <td>Partidos perdidos</td>
+    <td>Partidos empatados</td>
+    <td>Goles a favor</td>
+    <td>Goles en contra</td>
+</tr>
+<tr>
+    <td>1</td>
+    <td>Real Madrid</td>
+    <td>3</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>3</td>
+    <td>1</td>
+</tr>
+<tr>
+    <td>2</td>
+    <td>Sevilla</td>
+    <td>3</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>2</td>
+    <td>0</td>
+</tr>
+<tr>
+    <td>3</td>
+    <td>Mallorca</td>
+    <td>3</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>2</td>
+    <td>1</td>
+</tr>
+<tr>
+    <td>4</td>
+    <td>Valladolid</td>
+    <td>3</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>2</td>
+    <td>1</td>
+</tr>
+<tr>
+    <td>5</td>
+    <td>Alavés</td>
+    <td>3</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+</tr>
+<tr>
+    <td>6</td>
+    <td>Athletic</td>
+    <td>3</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+</tr>
+<tr>
+    <td>7</td>
+    <td>Atlético</td>
+    <td>3</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+</tr>
+<tr>
+    <td>8</td>
+    <td>Osasuna</td>
+    <td>3</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+</tr>
+<tr>
+    <td>9</td>
+    <td>Granada</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+    <td>4</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>10</td>
+    <td>Villareal</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+    <td>4</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>11</td>
+    <td>Real Sociedad</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+    <td>1</td>
+</tr>
+<tr>
+    <td>12</td>
+    <td>Valencia</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+    <td>1</td>
+</tr>
+<tr>
+    <td>13</td>
+    <td>Eibar</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+    <td>1</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>14</td>
+    <td>Betis</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+    <td>1</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>15</td>
+    <td>Barcelona</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+</tr>
+<tr>
+    <td>16</td>
+    <td>Getafe</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+</tr>
+<tr>
+    <td>17</td>
+    <td>Leganés</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+</tr>
+<tr>
+    <td>18</td>
+    <td>Levante</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+</tr>
+<tr>
+    <td>19</td>
+    <td>Celta</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+    <td>1</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>20</td>
+    <td>Espanyol</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+    <td>2</td>
+</tr>
+</table>
+</body>
+</html>
